@@ -1,0 +1,8 @@
+// Crear un microservicio de Alumnos con JPA.
+	Tabla: alumnos
+	propiedades: numAlumno Long, nombre String, nota double
+
+// Crear otro microservicio de Colegio.
+	- buscar todos los alumnos
+	- buscar alumno por su numero
+	
